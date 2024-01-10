@@ -32,6 +32,7 @@ class MainActivity : AppCompatActivity() {
 
         println("code ticket1234")
 
+        zhjkl
 
     }
 }
