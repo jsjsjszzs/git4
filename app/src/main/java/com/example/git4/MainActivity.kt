@@ -9,5 +9,12 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("1")
+
+
+        println("2")
+
+
+
+
     }
 }
