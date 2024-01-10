@@ -13,8 +13,6 @@ class MainActivity : AppCompatActivity() {
 
         println("2")
 
-
-
-
+        println(" 1 in branch1")
     }
 }
