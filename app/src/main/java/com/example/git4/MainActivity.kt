@@ -19,5 +19,7 @@ class MainActivity : AppCompatActivity() {
         println("alles ist gemerged, andere arbeitenn an projekt wieder weiter")
 
         println("work")
+
+        println("andere haben etwas an main gemacht")
     }
 }
