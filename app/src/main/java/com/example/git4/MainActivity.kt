@@ -19,5 +19,7 @@ class MainActivity : AppCompatActivity() {
         println("alles ist gemerged, andere arbeitenn an projekt wieder weiter")
 
         println("work")
+        println("ich arbeite an meinem ticket")
+        println("commit 1 an meinem ticket")
     }
 }
