@@ -15,5 +15,9 @@ class MainActivity : AppCompatActivity() {
         println("2 anderer change")
 
         println(" 1 in branch1")
+
+        println("alles ist gemerged, andere arbeitenn an projekt wieder weiter")
+
+        println("work")
     }
 }
