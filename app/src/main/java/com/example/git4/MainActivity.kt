@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
 
 
         println("2 change ")
+        println("2 anderer change")
 
         println(" 1 in branch1")
     }
