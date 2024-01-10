@@ -27,5 +27,7 @@ class MainActivity : AppCompatActivity() {
         println("während andere etwas gemacht haben comitte ich wieder ")
 
         println("code meines zweites tickets")
+
+        println("andere arbeiten wieder weiter")
     }
 }
