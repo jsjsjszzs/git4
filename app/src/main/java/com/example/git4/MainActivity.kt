@@ -21,5 +21,9 @@ class MainActivity : AppCompatActivity() {
         println("work")
 
         println("andere haben etwas an main gemacht")
+        println("ich arbeite an meinem ticket")
+        println("commit 1 an meinem ticket")
+
+        println("während andere etwas gemacht haben comitte ich wieder ")
     }
 }
