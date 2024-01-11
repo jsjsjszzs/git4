@@ -46,5 +46,7 @@ class MainActivity : AppCompatActivity() {
         println("first push")
 
         println("jetzt online commit 1")
+
+        println("jetzt online commit 2")
     }
 }
