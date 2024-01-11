@@ -38,5 +38,7 @@ class MainActivity : AppCompatActivity() {
         println("mein code")
 
         println("neuer Tag neues Glück")
+
+        println("ich arbeite an meinem Ticket")
     }
 }
