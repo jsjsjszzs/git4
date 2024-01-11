@@ -55,5 +55,7 @@ class MainActivity : AppCompatActivity() {
 
         println("commit im remote Branch")
 
+        println("sjsjsjs")
+
     }
 }
