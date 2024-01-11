@@ -42,5 +42,7 @@ class MainActivity : AppCompatActivity() {
         println("während dessen verändert jmd was im Main Branch")
 
         println("ich arbeite an meinem Ticket")
+
+        println("first push")
     }
 }
