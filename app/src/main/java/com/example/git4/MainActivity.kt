@@ -44,5 +44,7 @@ class MainActivity : AppCompatActivity() {
         println("ich arbeite an meinem Ticket")
 
         println("first push")
+
+        println("jetzt online commit 1")
     }
 }
