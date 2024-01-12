@@ -76,6 +76,8 @@ class MainActivity : AppCompatActivity() {
         println("yasir macht das projekt weiter")
         println("ich arbeite noch viel mehr weiter")
 
+        println("yasir macht ein commit im branch von einem branch")
+
 
     }
 }
