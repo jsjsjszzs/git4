@@ -71,5 +71,11 @@ class MainActivity : AppCompatActivity() {
 
         println("commit Josh Fr")
         println("commit2 Josh Fr")
+
+        println("joshua fängt am")
+        println("yasir macht das projekt weiter")
+        println("ich arbeite noch viel mehr weiter")
+
+
     }
 }
